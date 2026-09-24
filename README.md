@@ -16,3 +16,4 @@
   - [Raycast](https://github.com/Arthur-Paixao/Jogo--Filme/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#raycast)
   - [Iluminação](https://github.com/Arthur-Paixao/Jogo--Filme/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#ilumina%C3%A7%C3%A3o)
   - [Orientação a Objetos](https://github.com/Arthur-Paixao/Jogo--Filme/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#orienta%C3%A7%C3%A3o-a-objetos)
+  - [Jogo do filme "Querida, Encolhi as Crianças"](https://github.com/RihanJesus10/QEAC)
